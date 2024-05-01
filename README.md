@@ -1,7 +1,9 @@
 # PPI-pred-docking
 
 Scripts used to predict protein-protein interactions based on docking models 
-computed with GRAMM docking. 
+computed with GRAMM docking. This project was done for the course BCB 590:
+Special Topics in Bioinformatics: The Bioinformatics of Host-Pathogen
+Interactions.
 
 First, folders for each pair of host and pathogen protein were created in 
 `make_folders.sh`. This requires a list of all the names of host proteins be in
