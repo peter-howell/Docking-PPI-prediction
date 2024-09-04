@@ -1,4 +1,4 @@
-# PPI-pred-docking
+# Docking-PPI-prediction
 
 Scripts used to predict protein-protein interactions based on docking models 
 computed with GRAMM docking. This project was done for the course BCB 590:
